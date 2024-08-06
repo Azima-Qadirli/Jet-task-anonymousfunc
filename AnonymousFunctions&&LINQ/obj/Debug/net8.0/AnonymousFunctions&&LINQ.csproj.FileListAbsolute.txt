@@ -1,0 +1,14 @@
+C:\Users\test\OneDrive\Desktop\c# Jet\AnonymousFunctions&&LINQ\AnonymousFunctions&&LINQ\bin\Debug\net8.0\AnonymousFunctions&&LINQ.exe
+C:\Users\test\OneDrive\Desktop\c# Jet\AnonymousFunctions&&LINQ\AnonymousFunctions&&LINQ\bin\Debug\net8.0\AnonymousFunctions&&LINQ.deps.json
+C:\Users\test\OneDrive\Desktop\c# Jet\AnonymousFunctions&&LINQ\AnonymousFunctions&&LINQ\bin\Debug\net8.0\AnonymousFunctions&&LINQ.runtimeconfig.json
+C:\Users\test\OneDrive\Desktop\c# Jet\AnonymousFunctions&&LINQ\AnonymousFunctions&&LINQ\bin\Debug\net8.0\AnonymousFunctions&&LINQ.dll
+C:\Users\test\OneDrive\Desktop\c# Jet\AnonymousFunctions&&LINQ\AnonymousFunctions&&LINQ\bin\Debug\net8.0\AnonymousFunctions&&LINQ.pdb
+C:\Users\test\OneDrive\Desktop\c# Jet\AnonymousFunctions&&LINQ\AnonymousFunctions&&LINQ\obj\Debug\net8.0\AnonymousFunctions&&LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\test\OneDrive\Desktop\c# Jet\AnonymousFunctions&&LINQ\AnonymousFunctions&&LINQ\obj\Debug\net8.0\AnonymousFunctions&&LINQ.AssemblyInfoInputs.cache
+C:\Users\test\OneDrive\Desktop\c# Jet\AnonymousFunctions&&LINQ\AnonymousFunctions&&LINQ\obj\Debug\net8.0\AnonymousFunctions&&LINQ.AssemblyInfo.cs
+C:\Users\test\OneDrive\Desktop\c# Jet\AnonymousFunctions&&LINQ\AnonymousFunctions&&LINQ\obj\Debug\net8.0\AnonymousFunctions&&LINQ.csproj.CoreCompileInputs.cache
+C:\Users\test\OneDrive\Desktop\c# Jet\AnonymousFunctions&&LINQ\AnonymousFunctions&&LINQ\obj\Debug\net8.0\AnonymousFunctions&&LINQ.dll
+C:\Users\test\OneDrive\Desktop\c# Jet\AnonymousFunctions&&LINQ\AnonymousFunctions&&LINQ\obj\Debug\net8.0\refint\AnonymousFunctions&&LINQ.dll
+C:\Users\test\OneDrive\Desktop\c# Jet\AnonymousFunctions&&LINQ\AnonymousFunctions&&LINQ\obj\Debug\net8.0\AnonymousFunctions&&LINQ.pdb
+C:\Users\test\OneDrive\Desktop\c# Jet\AnonymousFunctions&&LINQ\AnonymousFunctions&&LINQ\obj\Debug\net8.0\AnonymousFunctions&&LINQ.genruntimeconfig.cache
+C:\Users\test\OneDrive\Desktop\c# Jet\AnonymousFunctions&&LINQ\AnonymousFunctions&&LINQ\obj\Debug\net8.0\ref\AnonymousFunctions&&LINQ.dll

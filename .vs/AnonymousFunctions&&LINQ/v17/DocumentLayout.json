@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\AnonymousFunctions\u0026\u0026LINQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45A3F12A-733E-4747-9CAC-477CB8004D20}|AnonymousFunctions\u0026\u0026LINQ\\AnonymousFunctions\u0026\u0026LINQ.csproj|c:\\users\\test\\onedrive\\desktop\\c# jet\\anonymousfunctions\u0026\u0026linq\\anonymousfunctions\u0026\u0026linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A3F12A-733E-4747-9CAC-477CB8004D20}|AnonymousFunctions\u0026\u0026LINQ\\AnonymousFunctions\u0026\u0026LINQ.csproj|solutionrelative:anonymousfunctions\u0026\u0026linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A3F12A-733E-4747-9CAC-477CB8004D20}|AnonymousFunctions\u0026\u0026LINQ\\AnonymousFunctions\u0026\u0026LINQ.csproj|c:\\users\\test\\onedrive\\desktop\\c# jet\\anonymousfunctions\u0026\u0026linq\\anonymousfunctions\u0026\u0026linq\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A3F12A-733E-4747-9CAC-477CB8004D20}|AnonymousFunctions\u0026\u0026LINQ\\AnonymousFunctions\u0026\u0026LINQ.csproj|solutionrelative:anonymousfunctions\u0026\u0026linq\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\AnonymousFunctions\u0026\u0026LINQ\\AnonymousFunctions\u0026\u0026LINQ\\Person.cs",
+              "RelativeDocumentMoniker": "AnonymousFunctions\u0026\u0026LINQ\\Person.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\AnonymousFunctions\u0026\u0026LINQ\\AnonymousFunctions\u0026\u0026LINQ\\Person.cs",
+              "RelativeToolTip": "AnonymousFunctions\u0026\u0026LINQ\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T17:27:36.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\AnonymousFunctions\u0026\u0026LINQ\\AnonymousFunctions\u0026\u0026LINQ\\Program.cs",
+              "RelativeDocumentMoniker": "AnonymousFunctions\u0026\u0026LINQ\\Program.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\AnonymousFunctions\u0026\u0026LINQ\\AnonymousFunctions\u0026\u0026LINQ\\Program.cs",
+              "RelativeToolTip": "AnonymousFunctions\u0026\u0026LINQ\\Program.cs",
+              "ViewState": "AQIAAD4BAAAAAAAAAAAgwFIBAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T15:08:06.869Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
